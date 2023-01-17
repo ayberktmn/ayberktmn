@@ -5,7 +5,7 @@
 </p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=ayberktmn.ayberktmn)
-[![Github](https://img.shields.io/github/followers/ayberktmn?label=Follow&style=social)](https://github.com/ayberktmn)
+[![Github](https://img.shields.io/github/followers/ayberktmn?label=Follow&style=social)][(https://github.com/ayberktmn)](https://github.com/ayberktmn)
 
 <div size='20px'> Hi! My name is Ayberk. Thank You for taking the time to view my GitHub Profile 
 </div>
