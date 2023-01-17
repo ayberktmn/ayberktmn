@@ -22,7 +22,7 @@
   
 - 💬 Ask me about Android, Kotlin, C#
 
-- 📧 How to reach me ayberktemin@gmail.com
+- 📧  How to reach me ayberktemin@gmail.com
 
 <img src = "https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width = 100px>
   
