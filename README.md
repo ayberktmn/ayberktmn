@@ -4,7 +4,6 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=ayberktmn.ayberktmn)
   [![Github](https://img.shields.io/github/followers/ayberktmn?label=Follow&style=social)](https://github.com/ayberktmn)
 
 
